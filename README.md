@@ -25,3 +25,14 @@ The Shape Analysis Web App is a comprehensive tool designed for analyzing and vi
 - Node.js and npm installed
 - Python and pip installed
 - Angular CLI installed
+
+
+### running Backend from local
+- in command prompt cd into backend folder
+- run python geovision.py from command prompt
+
+### running Frontend from loal
+- in command prompt, cd into front-end folder
+- run npm install:all
+- run ng serve
+- see your changes running on http://localhost:4200/ in browser
